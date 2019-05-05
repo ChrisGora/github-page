@@ -1,0 +1,4 @@
+baseURL = "https://chrisgora.github.io/"
+languageCode = "en-gb"
+title = "Chris Gora"
+theme = "ananke"
